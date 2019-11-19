@@ -61,7 +61,7 @@
         <dependency>
             <groupId>org.apache.tika</groupId>
             <artifactId>tika-core</artifactId>
-            <version>1.7</version>
+            <version>1.22</version>
         </dependency>
 
         <!-- https://mvnrepository.com/artifact/com.google.code.crawler-commons/crawler-commons -->
